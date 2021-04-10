@@ -20,10 +20,10 @@ executing command in mysql command line: "create database final_blog;" and close
 ## step: 6: 
 Inside same folder open cmd and type "python" in cmd
 ## step 7: 
-Inside cmd type: 
+Inside cmd type: <br>
 import init (enter)<br>
 init.db.create_all() (enter)<br>
-exit()
+exit()<br>
 and close the command line
 ## step 8: 
 Reopen cmd in same folder and type "python init.py" (Don't clode the cmd your website is running)
