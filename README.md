@@ -26,7 +26,7 @@ init.db.create_all() (enter)<br>
 exit()<br>
 and close the command line
 ## step 8: 
-Reopen cmd in same folder and type "python init.py" (Don't clode the cmd your website is running)
+Reopen cmd in same folder and type "python init.py" (Don't close the cmd your website is running)
 ## step 9: 
 Open chrome and type "http://127.0.0.1:5000/"
 ### Congratulation your website is running
