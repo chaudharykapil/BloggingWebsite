@@ -3,6 +3,7 @@
 > Python 3.x<br>
 > flask module (execute command "pip install Flask")<br>
 > SQLAlchemy module (execute command "pip install Flask-SQLAlchemy")<br>
+> PyMySql module (pip install PyMySQL)<br>
 > MySQL<br>
 # Steps to follow:
 ## You need to follow the step (1-7) only once. If you allready done that you can go to step 8 directly
